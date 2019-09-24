@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: AutoQuestTrack
+## Version: 1.0
+## LoadOnDemand: 0
+## Author: Sapphiery
+## Notes: Automatically tracks quests when you accept them
+
+AutoQuestTrack.lua
